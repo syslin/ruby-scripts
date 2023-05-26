@@ -26,3 +26,8 @@ Input: convert_number(42, “decimal”, “octal”)
 Output: 52
 Input: convert_number(42, “decimal”, “binary”)
 Output: 101010
+
+
+Program 5: 
+Write a method - let's call it boxy(n) - which produces output in STDOUT as shown below.
+
