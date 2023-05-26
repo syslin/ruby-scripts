@@ -31,3 +31,11 @@ Output: 101010
 Program 5: 
 Write a method - let's call it boxy(n) - which produces output in STDOUT as shown below.
 
+
+Problem 6:
+Model the following entity relation requirement.
+A system has many shops. A shop has many products, which can fall into one or many
+categories. The products can have different prices on different dates.
+The solution to this can be an ER diagram with crow-foot notation, or it can be a text file that
+lists relevant classes and has active record relation statements.
+
